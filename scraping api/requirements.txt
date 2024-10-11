@@ -1,0 +1,11 @@
+Flask-Migrate
+Flask-Script
+Flask
+Flask-Cors
+bs4
+fastfs
+undetected-chromedriver
+webdriver_manager
+translate 
+selenium
+pathlib
